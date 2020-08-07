@@ -1,0 +1,5 @@
+azure-storage-blob python3-azure-storage
+azure-storage-blob-changefeed python3-azure-storage
+azure-storage-file-datalake python3-azure-storage
+azure-storage-file-share python3-azure-storage
+azure-storage-queue python3-azure-storage
